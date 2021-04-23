@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    margin: 0%;
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./zakat.jpg);
+    background-size: 110%;
+    background-repeat: no-repeat;
+    font: 20px 'Lobster', cursive;
+
+}
+
+.audi{
+    text-align: center;
+    margin-top: 30%;
+}
+
+p{
+    color: whitesmoke;
+}
